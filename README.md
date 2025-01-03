@@ -1,5 +1,7 @@
 ## Hi! I'm Tayra Soto
 
+![](./header.jpg)
+
 ### About me
 #### Hobbies
 - Videogames
