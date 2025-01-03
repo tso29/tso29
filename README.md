@@ -23,4 +23,5 @@ Página creada con la guía de mi instructor del SENA, como proyecto base.
 - [To-do List](https://github.com/tso29/To-do-List.git)
 Proyecto de una lista de tareas que realicé para empezar en Django.
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
